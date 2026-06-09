@@ -1,5 +1,6 @@
-int main()
+void main()
 {
 	cout<<"Hello";
-	return 0;
+
+	return;
 }
